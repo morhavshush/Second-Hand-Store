@@ -1,0 +1,14 @@
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\morha\Desktop\סלע\לירון כהן\פרוייקט סיכום\Services\obj\Debug\netcoreapp3.1\Services.pdb
